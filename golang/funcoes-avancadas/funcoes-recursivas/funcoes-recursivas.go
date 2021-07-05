@@ -15,6 +15,6 @@ func main() {
 
 	fmt.Println("FUNÇÕES RECURSIVAS")
 
-	posicao := uint(55)
+	posicao := uint(9)
 	fmt.Println(fibonacci(posicao))
 }
